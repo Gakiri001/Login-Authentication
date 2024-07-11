@@ -1,0 +1,15 @@
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+form {
+  display: flex;
+  flex-direction: column;
+  row-gap: 2rem;
+}
+form div {
+  display: flex;
+  flex-direction: column;
+}
